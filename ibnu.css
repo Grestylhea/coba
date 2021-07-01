@@ -1,0 +1,36 @@
+body{  
+    background-color: aliceblue;
+}
+h1{
+    font-family: 'franklin';
+    text-align: center;
+}
+.p1{
+    color:red;
+    text-align: justify;
+}
+div{
+    width: 500px;
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 3px black;
+    transition: 1s;
+}
+.tombol{
+    width: 50px;
+    border-radius: 3px 3px 3px 3px;
+    margin-left: 850px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+}
+.hilang {
+    background-color: tomato;
+}
+.bgc{
+    background-color:green;
+    transition: 1s;
+}
